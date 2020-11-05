@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+      /* overflow-y: hidden; */
+    /* overflow-x: hidden;   */
+}
+.container-fluid{
+    height: 60px;
+}
+.container-fluid div{
+    height: 60px;
+}
+.main .col-md-7{
+    height: 540px;
+}
+.main .col-md-5{
+    height: 540px;
+    margin-left: -30px;
+    /* margin-top: -30px; */
+}
+.ic1{
+    font-size: 30px;
+    padding: 10px;
+    margin-top: 7px;
+}
+.btn{
+    height: 38px;
+    width: 70px;
+    border: 1px solid rgba(175,173,173,0.92);
+    font-size: 20px;
+    /* margin-top: -10px; */
+}
+.search{
+    margin-top: 13px;
+}
+.i2{
+    font-size: 30px;
+    padding-left: 25px;
+    margin-top: 15px;
+}.btn-primary{
+    margin-top: -50px;
+    float: right;
+    width: 150px;
+    border: 2px solid rgba(51,132,212,0.87);
+    padding-bottom: 35px;
+}
+.video{
+    width: 100%;
+}
+/* .yaru p{
+    /* margin-left: 40px; */
+    margin-top: 10px;
+} */
+.hi{
+    font-size: 18px;
+    /* padding-left: 10px; */
+    margin-left: 20px;
+}
+.ww{
+    position: relative;
+    left: 20px;
+}
+.col-md-12{
+    margin-left: -10px;
+}
+.hi{
+    margin-left: 20px;
+}
